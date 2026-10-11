@@ -1,1 +1,7 @@
-{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk","date":"2026-10-11T13:35:00Z","notes":"🔧 إصلاح جذري لصمت MP3: كان المشفّر يستقبل العينات بلا تكبير (الصوت عند ‎-96dB) — صار التكبير الصحيح <<16 + فحص ما بعد التشفير: الملف الناتج يُفك ويُقاس قبل النشر، وعند أي صمت يُحفظ الصوت الأصلي M4A مع تسمية المرحلة. مستحيل يوصلك ملف صامت مرة تانية.","versionCode":6,"versionName":"1.1.4"}
+{
+  "versionCode": 7,
+  "versionName": "1.1.5",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
+  "date": "2026-10-11T22:25:00Z",
+  "notes": "🎬 إصلاح ظهور الفيديوهات بالاستوديو: الفيديوهات صارت تُحفظ بمجموعة الفيديو (Movies/ShaheenDL) بدل التنزيلات — الاستوديو بيعرضها هلأ؛ الصوتيات بقيت بمجلد Downloads/ShaheenDL"
+}
