@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.5",
+  "versionCode": 8,
+  "versionName": "1.2",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
-  "date": "2026-10-11T22:25:00Z",
-  "notes": "🎬 إصلاح ظهور الفيديوهات بالاستوديو: الفيديوهات صارت تُحفظ بمجموعة الفيديو (Movies/ShaheenDL) بدل التنزيلات — الاستوديو بيعرضها هلأ؛ الصوتيات بقيت بمجلد Downloads/ShaheenDL"
+  "date": "2026-10-11T22:30:00Z",
+  "notes": "📘 دعم فيسبوك: روابط الريلز والمشاركات العامة صارت مقبولة (HD/SD) • الاسم الجديد «شاهين لينك»/«Shaheen Link» حسب لغة الهاتف • أيقونة جديدة (نسر + رمز المشاركة) • الفيديوهات تظهر بالاستوديو (Movies/ShaheenDL)"
 }
