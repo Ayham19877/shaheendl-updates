@@ -1,1 +1,7 @@
-{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk","date":"2026-10-11T06:45:00Z","notes":"🔧 إصلاح مستعجل: زر «صوت فقط MP3» ما كان يبلّش التنزيل — صار التنزيل المؤقت بمسار خاص بالتطبيق مع تقدّم حقيقي ومسار احتياطي تلقائي لأي تنزيل يرفضه مدير التنزيل\n⚠️ أي فشل مستقبلاً بيظهر سببه الحقيقي بالرسالة بدل «جرّب تاني»","versionCode":3,"versionName":"1.1.1"}
+{
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
+  "date": "2026-10-11T12:50:00Z",
+  "notes": "🔧 إصلاح: تنزيل MP3 كان يفشل عند الحفظ النهائي (وجهة الصوت غير مسموحة للنغمات) — صار يُحفظ النهائي عبر مجلد التنزيلات مثل الفيديوهات، وكل شيء غير ذلك بلا تغيير"
+}
