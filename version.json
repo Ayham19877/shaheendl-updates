@@ -1,1 +1,1 @@
-{"versionCode": 15, "versionName": "1.4.2", "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk", "date": "2026-10-12T02:24:02Z", "notes": "🔧 إصلاح أسماء الملفات: إزالة # % & + من الأسماء (كانت تقطع اللاحقة عند التنزيل)"}
+{"versionCode": 16, "versionName": "1.4.3", "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk", "date": "2026-10-12T02:33:25Z", "notes": "🔧 إصلاح تعليق تنزيل تيك توك: التحميل المباشر عبر OwnDl لروابط tiktokcdn + مراقب توقف يحول للمسار البديل تلقائياً"}
