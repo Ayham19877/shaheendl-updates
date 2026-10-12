@@ -1,1 +1,7 @@
-{"versionCode": 16, "versionName": "1.4.3", "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk", "date": "2026-10-12T02:33:25Z", "notes": "🔧 إصلاح تعليق تنزيل تيك توك: التحميل المباشر عبر OwnDl لروابط tiktokcdn + مراقب توقف يحول للمسار البديل تلقائياً"}
+{
+  "versionCode": 17,
+  "versionName": "1.5",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
+  "notes": "New eagle logo + contact email in Settings",
+  "publishedAt": "2026-10-12T02:43:50Z"
+}
