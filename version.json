@@ -1,7 +1,1 @@
-{
-  "versionCode": 8,
-  "versionName": "1.2",
-  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
-  "date": "2026-10-11T22:30:00Z",
-  "notes": "📘 دعم فيسبوك: روابط الريلز والمشاركات العامة صارت مقبولة (HD/SD) • الاسم الجديد «شاهين لينك»/«Shaheen Link» حسب لغة الهاتف • أيقونة جديدة (نسر + رمز المشاركة) • الفيديوهات تظهر بالاستوديو (Movies/ShaheenDL)"
-}
+{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk","date":"2026-10-12T00:05:00Z","notes":"🔧 إصلاح روابط فيسبوك: روابط المشاركة share/r صارت تُحلَّل لسلسلة التحويل حتى رابط الريل الأصلي قبل استخراج الفيديو (بدل الحكم الخاطئ «خاص أو محمي») + بديل mbasic عند الحاجة","versionCode":9,"versionName":"1.2.1"}
