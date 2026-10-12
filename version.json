@@ -1,1 +1,7 @@
-{"apkUrl":"https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk","date":"2026-10-12T00:05:00Z","notes":"🔧 إصلاح روابط فيسبوك: روابط المشاركة share/r صارت تُحلَّل لسلسلة التحويل حتى رابط الريل الأصلي قبل استخراج الفيديو (بدل الحكم الخاطئ «خاص أو محمي») + بديل mbasic عند الحاجة","versionCode":9,"versionName":"1.2.1"}
+{
+  "versionCode": 10,
+  "versionName": "1.2.2",
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
+  "date": "2026-10-12T00:20:00Z",
+  "notes": "📘 إصلاح جذري لاستخراج فيسبوك: بعد فشل الطرق المباشرة، التطبيق يفتح الصفحة بمتصفح حقيقي مخفي (WebView) على تلفونك ويلتقط الفيديو من الصفحة الحية — للفيديوهات العامة. رسالة مميزة عند الحاجة لتسجيل الدخول."
+}
