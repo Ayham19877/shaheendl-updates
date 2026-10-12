@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.5.1",
+  "versionCode": 19,
+  "versionName": "1.6",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
-  "notes": "Original launcher icon restored + logo badge in Settings + new hint text",
-  "publishedAt": "2026-10-12T02:49:18Z"
+  "notes": "Instagram reels + 3 themes + bigger settings gear + language in Settings + error re-translation",
+  "publishedAt": "2026-10-12T02:55:01Z"
 }
