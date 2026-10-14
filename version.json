@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.8",
+  "versionCode": 22,
+  "versionName": "1.8.1",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
-  "notes": "In-app DNS fallback (DoH) \u2014 downloads work on filtered networks without VPN",
-  "publishedAt": "2026-10-14T16:14:48Z"
+  "notes": "OTA updater stale-file fix — update.apk is always re-downloaded, never reused",
+  "publishedAt": "2026-10-14T17:08:42Z"
 }
