@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.7",
+  "versionCode": 21,
+  "versionName": "1.8",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
-  "notes": "Instagram direct extraction (no login, no third-party)",
-  "publishedAt": "2026-10-14T16:08:23Z"
+  "notes": "In-app DNS fallback (DoH) \u2014 downloads work on filtered networks without VPN",
+  "publishedAt": "2026-10-14T16:14:48Z"
 }
