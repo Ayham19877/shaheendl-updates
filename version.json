@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.6",
+  "versionCode": 20,
+  "versionName": "1.7",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
-  "notes": "Instagram reels + 3 themes + bigger settings gear + language in Settings + error re-translation",
-  "publishedAt": "2026-10-12T02:55:01Z"
+  "notes": "Instagram direct extraction (no login, no third-party)",
+  "publishedAt": "2026-10-14T16:08:23Z"
 }
