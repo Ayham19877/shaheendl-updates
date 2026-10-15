@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "1.9.3",
+  "versionCode": 27,
+  "versionName": "1.9.4",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/shaheendl-updates/main/ShaheenDL.apk",
-  "notes": "YouTube adaptive->muxed auto-fallback + self-reporting diagnostics",
-  "publishedAt": "2026-10-14T20:30:00Z"
+  "notes": "YouTube audio fallback via muxed video",
+  "publishedAt": "2026-10-15T00:10:00Z"
 }
